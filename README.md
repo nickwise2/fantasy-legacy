@@ -1,2 +1,3 @@
-# fantasy-legacy
-Public privacy policy for Fantasy Legacy.
+# FantasyLocker
+
+Public legal and support site for FantasyLocker, the fantasy-sports career network.
