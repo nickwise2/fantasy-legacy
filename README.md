@@ -12,3 +12,7 @@ After the public App Store release is verified, replace the three beta links and
 No analytics scripts, external fonts, cookies or build dependencies are added by this site. Preserve `assets/fantasylocker-email.png`: transactional emails reference it.
 
 Domain DNS is managed in Porkbun. Web routing must not alter the support-forwarding MX/SPF or Resend DKIM, `send` and `rsend` records.
+
+## Platform coverage
+
+Checked against the build 128 app source and live provider catalog on October 26, 2026. Beta import connections: Sleeper, Fleaflicker, MyFantasyLeague, Fantrax and Fantasy Premier League. Yahoo Fantasy, ESPN, CBS Sports and NFL Fantasy account connections remain unavailable. Keep the homepage, import guide and support page aligned when availability changes. A listed connection does not imply identical history depth or commercial/provider approval.
